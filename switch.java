@@ -1,3 +1,4 @@
+//switch program
 public class SwitchExample {  
 public static void main(String[] args) {  
     //Declaring a variable for switch expression  
